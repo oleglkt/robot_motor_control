@@ -9,3 +9,8 @@ git commit
 git add
 git config 
 git load
+
+Version_2:
+Изменения в программе для плавной регулировки оборотов
+
+git checkout -b feature_branch_name
